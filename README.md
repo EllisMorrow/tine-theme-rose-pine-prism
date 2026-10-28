@@ -15,6 +15,8 @@
 
 Rosé Pine Dawn and Moon share one Prism theme: warm cream paper by day, a muted violet-blue evening by night, with rose, pine and iris accents.
 
+Explore the full [Prism theme gallery](https://github.com/martinkoutecky/tine/discussions/786) to compare all 29 themes in light and dark modes.
+
 ### Dark mode
 
 ![Rosé Pine · Prism in Tine dark mode](docs/rose-pine-dark.png)

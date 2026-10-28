@@ -8,6 +8,8 @@
 
 Rosé Pine Dawn 与 Moon 相映于同一款 Prism 主题：日间是暖奶油纸色，夜晚转为柔和的蓝紫暮色，点缀玫瑰、松绿与鸢尾。
 
+在 [Prism 主题画廊](https://github.com/martinkoutecky/tine/discussions/786)中，可以直观比较全部 29 个主题的浅色与深色效果。
+
 ### 深色模式
 
 ![Rosé Pine · Prism 深色模式实拍](docs/rose-pine-dark.png)
